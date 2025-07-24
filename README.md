@@ -1,4 +1,4 @@
-**IT Training - Student Management System**
+<img width="1670" height="893" alt="Screenshot 2025-07-23 122626" src="https://github.com/user-attachments/assets/f12add6d-89b1-4a69-9731-4ca031786b99" />**IT Training - Student Management System**
 **Project Overview**
 This is a web-based Student Management System developed using Spring Boot, Spring MVC, Spring Data JPA, and Hibernate. 
 It allows users to register, login, view, update, and delete student records. 
@@ -97,3 +97,4 @@ Use navigation bar to explore pages.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Screenshots**
 
+![Uploading Screenshot 2025-07-23 122626.png…]
